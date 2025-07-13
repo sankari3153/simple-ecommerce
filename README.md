@@ -16,7 +16,7 @@ This project is a simple e-commerce web application built using React.js and Tai
 
 ## Getting Started
  Clone the repository:
- git clone https://github.com/YOUR_USERNAME/simple-ecommerce.git
+ git clone https://github.com/sankari3153/simple-ecommerce.git
  cd simple-ecommerce
  Install dependencies:
  npm install
