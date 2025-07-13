@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Red T-shirt",
+    "price": 499,
+    "image": "/images/download.jpeg",
+    "description": "Comfortable red t-shirt",
+    "category": "Clothing",
+    "discount": 10,
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "name": "Blue Jeans",
+    "price": 999,
+    "image": "/images/blue.jpg",
+    "description": "Stylish blue jeans",
+    "category": "Clothing",
+    "discount": 15,
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "name": "White Sneakers",
+    "price": 1499,
+    "image": "/images/3.jpeg",
+    "description": "Trendy and durable white sneakers",
+    "category": "Footwear",
+    "discount": 20,
+    "inStock": false
+  },
+  {
+    "id": 4,
+    "name": "Black Hoodie",
+    "price": 1299,
+    "image": "/images/4.jpeg",
+    "description": "Warm and cozy black hoodie",
+    "category": "Clothing",
+    "discount": 0,
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "name": "Casual Cap",
+    "price": 299,
+    "image": "/images/5.jpeg",
+    "description": "Cool cap for everyday style",
+    "category": "Accessories",
+    "discount": 5,
+    "inStock": true
+  },
+  {
+    "id": 6,
+    "name": "Leather Wallet",
+    "price": 799,
+    "image": "/images/6.jpeg",
+    "description": "Classic brown leather wallet",
+    "category": "Accessories",
+    "discount": 12,
+    "inStock": true
+  },
+  {
+    "id": 7,
+    "name": "Formal Shoes",
+    "price": 1999,
+    "image": "/images/7.jpeg",
+    "description": "Elegant black formal shoes",
+    "category": "Footwear",
+    "discount": 25,
+    "inStock": true
+  },
+  {
+    "id": 8,
+    "name": "Printed Shirt",
+    "price": 699,
+    "image": "/images/8.jpeg",
+    "description": "Modern printed cotton shirt",
+    "category": "Clothing",
+    "discount": 10,
+    "inStock": false
+  },
+  {
+    "id": 9,
+    "name": "Blue Hoodie",
+    "price": 1399,
+    "image": "/images/9.jpeg",
+    "description": "Comfortable and warm blue hoodie",
+    "category": "Clothing",
+    "discount": 0,
+    "inStock": true
+  },
+  {
+    "id": 10,
+    "name": "Digital Watch",
+    "price": 1099,
+    "image": "/images/10.jpeg",
+    "description": "Waterproof and stylish digital watch",
+    "category": "Accessories",
+    "discount": 30,
+    "inStock": true
+  }
+]
